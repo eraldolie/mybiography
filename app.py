@@ -3,7 +3,7 @@ import streamlit as st
 def main():
     st.title("MY BIOGRAPHY")
     st.header("LIE ERALDO MANASON")
-    st.image("Photo.jpg", width=300)
+    st.image("photo.jpg", width=300)
 
     st.subheader("Profil")
     st.write("Nama saya adalah Lie Eraldo Manason. Saya adalah seseorang yang memiliki semangat kerja yang tinggi, memiliki kemampuan untuk belajar hal-hal yang baru dengan sangat cepat, pekerja keras, disiplin, dan jujur. Saya yakin bahwa dengan kemampuan dan keterampilan yang saya miliki, saya dapat memberikan kontribusi yang sangat berarti bagi perusahaan anda")
