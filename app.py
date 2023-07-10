@@ -53,4 +53,4 @@ def main():
     st.info("WhatsApp : 081225030660")
     st.info("Intagram : @eraldolie")
 if __name__ == '__main__':
-     main()
+     
