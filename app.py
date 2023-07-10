@@ -6,7 +6,7 @@ def main():
     st.image("Photo.jpg", width=300)
 
     st.subheader("Profil")
-    st.write("Nama saya adalah Lie Eraldo Manason. Saya adalah seseorang yang memiliki semangat kerja yang tinggi, memiliki kemampuan untuk belajar hal-hal yang baru dengan sangat cepat, pekerja keras, disiplin, dan jujur. Saya yakin bahwa dengan kemampuan dan keterampilan yang saya miliki, saya dapat memberikan kontribusi yang sangat berarti bagi perusahaan anda")
+    st.write("Nama saya adalah Lie Eraldo Manason. Saya adalah seseorang yang memiliki semangat kerja yang tinggi, memiliki kemampuan untuk belajar hal-hal yang baru dengan sangat cepat, pekerja keras, disiplin, dan jujur. Saya yakin bahwa dengan kemampuan dan keterampilan yang saya miliki, saya dapat memberikan kontribusi yang sangat berarti bagi perusahaan anda")
     
     st.markdown("---")
 
@@ -51,6 +51,7 @@ def main():
     st.subheader("Contact Personal")
     st.info("Email : eraldo.matius@gmail.com")
     st.info("WhatsApp : 081225030660")
-    st.info("Intagram : @eraldolie") 
+    st.info("Intagram : @eraldolie")
+
 if __name__ == '__main__':
     main()
